@@ -20,18 +20,25 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Languages & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majedul-Islam5&theme=react-dark&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical"
+       alt="Top Languages" />
+
+  <img height="180em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github"
+       alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majedul-Islam5&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Majedul-Islam5&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Majedul-Islam5&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
