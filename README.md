@@ -27,6 +27,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majedul-Islam5&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Majedul-Islam5&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
