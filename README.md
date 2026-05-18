@@ -22,15 +22,17 @@
 
 ### 🔝 Top Languages & Activity
 
-<p align="center">
-  <img width="48%"
-       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical"
-       alt="Top Languages" />
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical" />
+</td>
 
-  <img width="48%"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github"
-       alt="GitHub Stats" />
-</p>
+<td width="50%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Majedul-Islam5&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
