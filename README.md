@@ -22,14 +22,18 @@
 
 ### 🔝 Top Languages & Activity
 
-<table align="center">
-<tr>
-<td width="50%">
+<table align="center" border="0">
+<tr border="0">
+<td width="50%" align="center" border="0">
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical" />
+
 </td>
 
-<td width="50%">
+<td width="50%" align="center" border="0">
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github" />
+
 </td>
 </tr>
 </table>
