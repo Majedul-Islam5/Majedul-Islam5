@@ -33,10 +33,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Majedul-Islam5&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Majedul-Islam5&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
