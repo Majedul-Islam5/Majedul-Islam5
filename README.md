@@ -23,23 +23,19 @@
 ### 🔝 Top Languages & Activity
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow"
-     href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical">
 
+  <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical">
     <img height="180em"
          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Majedul-Islam5&layout=compact&theme=radical"
-         alt="Top Languages"
-         style="max-width: 100%;">
+         alt="Top Languages" />
   </a>
 
-  <a target="_blank" rel="noopener noreferrer nofollow"
-     href="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github">
-
+  <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github">
     <img height="180em"
          src="https://github-readme-stats-eight-theta.vercel.app/api?username=Majedul-Islam5&show_icons=true&theme=radical&rank_icon=github"
-         alt="GitHub Stats"
-         style="max-width: 100%;">
+         alt="GitHub Stats" />
   </a>
+
 </p>
 
 <p align="center">
