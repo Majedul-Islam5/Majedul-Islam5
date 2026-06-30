@@ -15,7 +15,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-<img src="https://trophy.ryglcloud.net/?username=Majedul-Islam5&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Majedul Islam's GitHub Trophies" />
+![](https://trophy.ryglcloud.net/?username=Majedul-Islam5&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
