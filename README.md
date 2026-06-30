@@ -18,9 +18,7 @@
 ![](https://trophy.ryglcloud.net/?username=Majedul-Islam5&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
-<p align="center" dir="auto">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
 
 ### 🔝 Top Languages & Activity
 
